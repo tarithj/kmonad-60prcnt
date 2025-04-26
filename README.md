@@ -1,4 +1,4 @@
-#Kmonad-60prcnt
+# Kmonad-60prcnt
 This repo contains kmonad scripts that I use with my 60% mechnical keyboard.
 
 ## Current Features
